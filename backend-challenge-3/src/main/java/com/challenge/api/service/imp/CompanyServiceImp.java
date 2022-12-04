@@ -82,5 +82,4 @@ public class CompanyServiceImp implements CompanyService {
 		}
 		return company;
 	}
-
 }
